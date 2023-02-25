@@ -3,7 +3,7 @@ main:
   - title: "Category"
     url: /categories/
   - title: "About me"
-    url: /profile/about/
+    url: /profile/about
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
