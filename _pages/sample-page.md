@@ -13,17 +13,18 @@ author_profile: true
 ### SKill
 ---
 
-Language            Javascript  Typescript  
-                    Python3
+Language: Javascript  Typescript Python3
 
 ---  
 
-Backend             NodeJS  NestJS
+Backend: NodeJS  NestJS
 
 ---
 
-DataBase            MongoDB MySQL
+DataBase: MongoDB MySQL
 
 ---
 
-DevOps              Github
+DevOps: Github
+
+---
